@@ -5,4 +5,4 @@ Hello, is this computer a person?!
 - 2
 - 3
 
-Jack was here.
+jack was here.
